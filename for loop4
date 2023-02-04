@@ -1,0 +1,8 @@
+	int num = 97321;
+		int i;
+		
+	for ( i = 2; i<=10; i++)
+	{
+		System.out.println(num * i);
+	}
+		
